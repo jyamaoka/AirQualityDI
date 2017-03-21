@@ -1,2 +1,2 @@
-# AirQualityDI
-Start of DI Project
+# AirQuality
+Start of Air Quality Project
